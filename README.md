@@ -26,7 +26,7 @@ CNES (SUS bed capacity) · SINAN/Tabnet SMS-Rio (cases by planning area) · Cens
 - At the 2024 peak, arboviruses occupied only **~3%** of the city's public clinical and pediatric beds: pressure is localized, not citywide
 
 ## Notebooks (in Portuguese)
-View the complete project: https://github.com/CarlaDutra25/dengue-hospital-demand-rio/blob/main/project_dengue.ipynb
+View the complete project: https://github.com/CarlaDutra25/dengue-hospital-demand-rio/blob/main/project_dengue_ai.ipynb
 
 ## Next steps
 Demand–supply matching between districts and calibration with Rio de Janeiro's Municipal Health Department.
