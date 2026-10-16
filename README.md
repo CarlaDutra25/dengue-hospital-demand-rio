@@ -8,7 +8,7 @@
 
 **Academic supervision:** Prof. Gustavo Scalabrini Sampaio
 
-**Context:** Applied Project IV (community-outreach/extension course), 2026 — work in progress, final results expected Nov 2026
+**Context:** Applied Project IV (community-outreach/extension course), 2026 - work in progress, final results expected Nov 2026
 
 ## Overview
 An end-to-end pipeline that turns weekly arbovirus (dengue + chikungunya) forecasts into hospital bed demand,
