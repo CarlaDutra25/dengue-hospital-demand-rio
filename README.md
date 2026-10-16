@@ -4,8 +4,10 @@
 # Where Will the Next Dengue Bed Be Needed?
 ### From city-level forecasts to district-level hospital demand in Rio de Janeiro's public health system (SUS)
 
-**Author:** Carla de Jesus Dutra Paula — B.Sc. in Data Science, Universidade Presbiteriana Mackenzie (Brazil)
+**Author:** Carla de Jesus Dutra Paula - B.Sc. in Data Science, Universidade Presbiteriana Mackenzie (Brazil)
+
 **Academic supervision:** Prof. Gustavo Scalabrini Sampaio
+
 **Context:** Applied Project IV (community-outreach/extension course), 2026 — work in progress, final results expected Nov 2026
 
 ## Overview
